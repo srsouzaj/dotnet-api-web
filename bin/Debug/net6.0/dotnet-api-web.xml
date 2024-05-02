@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>dotnet-api-web</name>
+    </assembly>
+    <members>
+        <member name="M:dotnet_api_web.Controllers.UsuarioController.Apresentar(System.String)">
+            <summary>
+            Method the weather 
+            </summary>
+            <returns>
+            One list of the weather
+            </returns>
+        </member>
+    </members>
+</doc>
