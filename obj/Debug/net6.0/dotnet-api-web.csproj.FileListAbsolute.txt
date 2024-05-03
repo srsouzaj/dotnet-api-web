@@ -32,3 +32,4 @@
 /Users/jorge/Downloads/dotnet-api-web/obj/Debug/net6.0/ref/dotnet-api-web.dll
 /Users/jorge/Downloads/dotnet-api-web/bin/Debug/net6.0/dotnet-api-web.xml
 /Users/jorge/Downloads/dotnet-api-web/obj/Debug/net6.0/dotnet-api-web.xml
+/Users/jorge/Downloads/dotnet-api-web/obj/Debug/net6.0/dotnet-api-web.sourcelink.json
